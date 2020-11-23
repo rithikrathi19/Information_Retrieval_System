@@ -1,4 +1,4 @@
-The Corpus is made using the fice files:
+The Corpus is made using the five files:
 AC_wiki_15
 AC_wiki_19
 AC_wiki_25
